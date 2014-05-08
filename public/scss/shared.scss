@@ -1,0 +1,10 @@
+$white: #ffffff !default;
+$black: #000000 !default;
+
+a {
+  color: blue;
+
+  &:hover {
+    text-decoration: none;
+  }
+}

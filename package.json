@@ -1,0 +1,21 @@
+{
+  "name": "node-angular-starter",
+  "description": "This is starter app for AngularJS SPA",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "connect": "*"
+  },
+  "devDependencies": {
+    "nodemon": "*",
+    "gulp": "^3.6.2",
+    "gulp-concat": "^2.2.0",
+    "gulp-uglify": "^0.2.1",
+    "gulp-util": "^2.2.14",
+    "gulp-sass": "0.7.x",
+    "gulp-watch": "x"
+  }
+}
